@@ -8,7 +8,9 @@ This Python script allows you to download videos from a YouTube playlist and con
 
 2. Required Python Libraries: Install the necessary libraries by running the following command in your terminal or command prompt:
 
-`pip install pytube moviepy`
+```bash
+pip install pytube moviepy
+```
 
 ## Usage
 
@@ -22,20 +24,17 @@ git clone https://github.com/your-username/your-repo.git
 2. Navigate to the project directory:
 
 ```bash
-Copy code
 cd your-repo
 ```
 3. Open the script file (download_playlist.py) in a text editor and set the SAVE_PATH variable:
 
 ```python
-Copy code
 SAVE_PATH = "/path/to/your/directory"  # Change this to your desired download directory
 ```
 
 4. Run the script:
 
 ```bash
-Copy code
 python download_playlist.py
 ```
 
