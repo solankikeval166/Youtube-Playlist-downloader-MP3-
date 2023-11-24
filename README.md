@@ -17,8 +17,7 @@ pip install pytube moviepy
 1. Clone the repository to your local machine:
 
 ```bash
-Copy code
-git clone https://github.com/your-username/your-repo.git
+git clone [https://github.com/your-username/your-repo.git](https://github.com/solankikeval166/Youtube-Playlist-downloader-MP3-.git)
 ```
 
 2. Navigate to the project directory:
